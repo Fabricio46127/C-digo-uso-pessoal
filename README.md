@@ -1,9 +1,9 @@
 # Sistema de Cupom
 
-Projeto criado para estudar Java Script.
+Projeto criado para estudar JavaScript.
 
 ## Tecnologias
-- Java Script.
+- JavaScript.
 
 ## Funcionalidades
 - Cadastro de cupom
