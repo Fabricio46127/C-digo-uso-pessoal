@@ -1,15 +1,14 @@
-# Sistema de Estoque
+# Sistema de Cupom
 
 Projeto criado para estudar Java.
 
 ## Tecnologias
 - Java
-- MySQL
 
 ## Funcionalidades
-- Cadastro de produtos
-- Controle de estoque
-- Relatórios
+- Cadastro de cupom
+- Controle de cupom
+- Relatórios .json
 
 ## Como executar
-...
+node cod.js
