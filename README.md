@@ -13,7 +13,7 @@ Projeto criado para estudar Java.
 ## Como executar
 node cod.js
 ------------------------------------------
-crie uma varievel cupom.json e coloque isso
+crie uma arquivo cupom.json e coloque isso
 [
   {
     "nomepromo": "promo30",
